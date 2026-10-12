@@ -8,7 +8,7 @@ This is Document of about programming language you must know if it mastering. I 
 
 
 
-<img width="915" height="499" alt="Generated Image October 12, 2026 - 8_19PM" src="https://github.com/user-attachments/assets/3ff385a9-d7b8-47f8-b121-6acde2f74b5c" />
+
 
 
 
