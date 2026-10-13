@@ -11,7 +11,8 @@ This is Document of about programming language you must know if it mastering. I 
 
 
 
-<img width="499" height="894" alt="Generated Image October 12, 2026 - 8_31PM" src="https://github.com/user-attachments/assets/207c1592-9c7f-4f8a-91a9-d52a92da7f6c" />
+<img width="424" height="632" alt="Generated Image October 13, 2026 - 8_42AM-1" src="https://github.com/user-attachments/assets/c0ac443a-9a29-402b-a028-896ce6a79b5c" />
+
 
 # Topics 
  
